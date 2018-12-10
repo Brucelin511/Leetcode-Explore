@@ -1,6 +1,4 @@
-## 98 Validate Binary Search Tree
-
-
+## 98 [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 
 ```java
     public boolean isValidBST(TreeNode root) { 
@@ -153,7 +151,7 @@ public boolean isValidBST(TreeNode root) {
 
 
 
-## 285 Inorder Successor in BST
+## 285 [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst) 
 
 
 
