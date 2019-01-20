@@ -1,1 +1,1 @@
-# [Leetcode Explore](https://leetcode.com/explore/learn/)
+# [Leetcode Explore Leran](https://leetcode.com/explore/learn/)
